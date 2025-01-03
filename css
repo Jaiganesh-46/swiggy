@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navbar-icon-font {
+    color: #595959;
+    font-family: "Serif";
+}
+
+.nav-items {
+    padding: 10px;
+}
+
+.main-heading {
+    color: #000000;
+    font-family: "Sans-Serif";
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
+.icon-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-container {
+    width: 250px;
+    margin: 10px;
+}
+
+.main-container-2 {
+    width: 350px;
+    margin: 10px;
+}
+
+.image1 {
+    height: 100px;
+    width: 80px;
+    border-radius: 50px;
+}
+
+.img-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bg-img1 {
+    background-image: url("https://th.bing.com/th/id/OIP.M4jyRFj5ScV6Nhu38aWKcAHaFj?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    height: 150px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-img2 {
+    background-image: url("https://th.bing.com/th/id/OIP.6Nx_C1m4YCujBiHe48YpHAHaE8?rs=1&pid=ImgDetMain");
+    background-size: cover;
+    height: 150px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-img3 {
+    background-image: url("https://images8.alphacoders.com/101/thumb-1920-1011433.jpg");
+    background-size: cover;
+    height: 150px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-img4 {
+    background-image: url("https://kunafaworld.com/assets/img/ser/CLASSIC-CREAM-KUNAFA.jpg");
+    background-size: cover;
+    height: 150px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.sub-head {
+    color: #404040;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 100;
+    color: #8c8c8c;
+}
+
+button {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+    border-style: solid;
+    padding: 5px;
+    border-radius: 15px;
+    border-width: 1px;
+    margin: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: #b3b3b3;
+}
+
+#places-description {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 2px;
+    border-color: #b3b3b3;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.bg-main-img1 {
+    background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/2b4f62d606d1b2bfba9ba9e5386fabb7");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img2 {
+    background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ebr49cfbxnxnvaa2olm0");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img3 {
+    background-image: url("https://wallpapercave.com/wp/wp3030126.jpg");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img4 {
+    background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/n4dtclgkxfxlo9vic4hp");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img5 {
+    background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/jdpprjodc9mt91dy18xr");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img6 {
+    background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/0a37282845f641a5995d866285767803");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img7 {
+    background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/sesedcn1vxetirwrnps4");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img8 {
+    background-image: url("https://speakzeasy.files.wordpress.com/2015/03/ice-cream-in-a-bowl.jpg");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img9 {
+    background-image: url("https://www.oogio.net/wp-content/uploads/2018/11/American_chocolate_cake6-s.jpg");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img10 {
+    background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/76d5f4055f9d5796bc7b72dfba8bd92b");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img11 {
+    background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/zs9jytkpuf2bfndbhujq");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.bg-main-img12 {
+    background-image: url("https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/2/aa156f04-41cb-4ecc-acf8-0e87183eb108_654361.jpg");
+    background-size: cover;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.taskbar {
+    text-align: center;
+    min-width: 100vw;
+}
+
+.tb-container {
+    width: 350px;
+    margin: 10px;
+}
+
+.tab {
+    background-color: #d9d9d9;
+    padding: 10px;
+    min-width: 100vw;
+    height: 100px;
+    background-size: cover;
+}
+
+.tab-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #404040;
+    padding-left: 150px;
+}
+
+.b-para {
+    font-family: "Roboto";
+    font-size: 10px;
+    font-weight: 100;
+    color: #ffffff;
+    text-align: left;
+}
+
+.b-head {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: left;
+}
+
+.task-head {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+}
